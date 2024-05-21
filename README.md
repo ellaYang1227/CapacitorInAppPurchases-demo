@@ -1,8 +1,9 @@
 # CapacitorInAppPurchasesDemo(使用 Angular 在 Capacitor app 提供應用程式內購買(InAppPurchases, IAP)示範)
 
 練習在 Capacitor 的 Angular 專案上，使用 cordova-plugin-purchase 套件在 Android、iOS 平台上，實作應用程式內購買(InAppPurchases, IAP)。
+尚缺 Android 版本
 
-[[筆記]使用 Angular 在 Capacitor app 提供應用程式內購買](https://perfect-submarine-445.notion.site/Angular-APP-Angular-Ionic-Capacitor-1-a615b801f848416cb14b6812fa624af1)
+[[筆記]使用 Angular 在 Capacitor app 提供應用程式內購買(In App Purchase(IAP))(cordova-plugin-purchase 套件)- iOS 版](https://perfect-submarine-445.notion.site/Angular-Capacitor-app-In-App-Purchase-IAP-cordova-plugin-purchase-iOS-a36f168b136a400997d3a3982e076d67)
 
 ## 安裝
 
